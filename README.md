@@ -33,8 +33,6 @@ Segre is distributed as Binaries due to :-
  - Individual or team wants to talk with one another securely.
  - And again anyone, like Journalists, Drug cartels, Terrorists, Criminals, Security officials, or Government officials, that means anyone.
 
- *Segre: A Private Real Time Communication End to End encrypted chatting application for secure messaging and file transfer. Stay Updated*  
-
  *Segre's Source code is available at this "[account link]". Feel free to contribute or fork it and make your own customized version with super extra features and use freely within your organisation.*
 
 ## Available Platforms - 
@@ -55,12 +53,10 @@ Segre is distributed as Binaries due to :-
 ## Licensing
 When exploring open source software, most developers would agree that understanding software licenses is crucial yet complex.
 
-## Documentation and How to Use
+## Use
 
 ```bash
     segre@debian:~$ man segre 
-```
-```bash
     segre@debian:~$ segre --help 
 ```
 ## Dedicated to:
